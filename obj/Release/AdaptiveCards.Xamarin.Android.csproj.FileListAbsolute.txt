@@ -1,0 +1,15 @@
+C:\Workspace\Carpenters.MyCalim\LibraryBindings\Android\AdaptiveCards\AdaptiveCards.Xamarin.Android\bin\Release\AdaptiveCards.Xamarin.Android.dll
+C:\Workspace\Carpenters.MyCalim\LibraryBindings\Android\AdaptiveCards\AdaptiveCards.Xamarin.Android\bin\Release\AdaptiveCards.Xamarin.Android.pdb
+C:\Workspace\Carpenters.MyCalim\LibraryBindings\Android\AdaptiveCards\AdaptiveCards.Xamarin.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Workspace\Carpenters.MyCalim\LibraryBindings\Android\AdaptiveCards\AdaptiveCards.Xamarin.Android\bin\Release\Xamarin.Android.Support.Annotations.dll
+C:\Workspace\Carpenters.MyCalim\LibraryBindings\Android\AdaptiveCards\AdaptiveCards.Xamarin.Android\bin\Release\Xamarin.Android.Support.Compat.dll
+C:\Workspace\Carpenters.MyCalim\LibraryBindings\Android\AdaptiveCards\AdaptiveCards.Xamarin.Android\bin\Release\Xamarin.Android.Support.Core.UI.dll
+C:\Workspace\Carpenters.MyCalim\LibraryBindings\Android\AdaptiveCards\AdaptiveCards.Xamarin.Android\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+C:\Workspace\Carpenters.MyCalim\LibraryBindings\Android\AdaptiveCards\AdaptiveCards.Xamarin.Android\bin\Release\Xamarin.Android.Support.Fragment.dll
+C:\Workspace\Carpenters.MyCalim\LibraryBindings\Android\AdaptiveCards\AdaptiveCards.Xamarin.Android\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+C:\Workspace\Carpenters.MyCalim\LibraryBindings\Android\AdaptiveCards\AdaptiveCards.Xamarin.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Workspace\Carpenters.MyCalim\LibraryBindings\Android\AdaptiveCards\AdaptiveCards.Xamarin.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Workspace\Carpenters.MyCalim\LibraryBindings\Android\AdaptiveCards\AdaptiveCards.Xamarin.Android\obj\Release\AdaptiveCards.Xamarin.Android.csproj.CoreCompileInputs.cache
+C:\Workspace\Carpenters.MyCalim\LibraryBindings\Android\AdaptiveCards\AdaptiveCards.Xamarin.Android\obj\Release\AdaptiveCards.Xamarin.Android.csproj.CopyComplete
+C:\Workspace\Carpenters.MyCalim\LibraryBindings\Android\AdaptiveCards\AdaptiveCards.Xamarin.Android\obj\Release\AdaptiveCards.Xamarin.Android.dll
+C:\Workspace\Carpenters.MyCalim\LibraryBindings\Android\AdaptiveCards\AdaptiveCards.Xamarin.Android\obj\Release\AdaptiveCards.Xamarin.Android.pdb
