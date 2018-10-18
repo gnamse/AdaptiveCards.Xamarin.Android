@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+    <id>AdaptiveCards.Xamarin.Android</id>
+    <version>1.1.0</version>
+    <title>AdaptiveCards.Xamarin.Android</title>
+    <authors>Onamusi Gbolahan</authors>
+    <owners>YOUR_NAME</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>AdaptiveCards Xamarin Android</tags>
+    </metadata>
+    <files>
+        <!-- Android reference assemblies -->
+        <file src="bin\Release\AdaptiveCards.Xamarin.Android.dll" target="lib\MonoAndroid81\AdaptiveCards.Xamarin.Android.dll" />
+    </files>
+</package>

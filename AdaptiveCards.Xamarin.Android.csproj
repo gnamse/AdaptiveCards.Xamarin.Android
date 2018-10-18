@@ -18,6 +18,9 @@
     <TargetFrameworkVersion>v8.1</TargetFrameworkVersion>
     <AndroidClassParser>jar2xml</AndroidClassParser>
     <AndroidCodegenTarget>XamarinAndroid</AndroidCodegenTarget>
+    <PackageId>AdaptiveCards.Xamarin.Android</PackageId>
+    <Version>1.1.0</Version>
+    <Authors>Onamusi Gbolahan</Authors>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
   </PropertyGroup>
