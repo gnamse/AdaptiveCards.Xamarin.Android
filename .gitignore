@@ -219,3 +219,5 @@ _Pvt_Extensions
 \.idea/\.idea\.Carpenters\.MyClaim/\.idea/
 
 \.idea/\.idea\.Carpenters\.MyClaim/
+
+obj/Release/
