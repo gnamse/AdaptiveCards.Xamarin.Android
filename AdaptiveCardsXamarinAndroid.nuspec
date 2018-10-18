@@ -1,13 +1,19 @@
 <?xml version="1.0"?>
 <package >
     <metadata>
-    <id>AdaptiveCards.Xamarin.Android</id>
+    <id>AdaptiveCard.Xamarin.Android</id>
     <version>1.1.0</version>
     <title>AdaptiveCards.Xamarin.Android</title>
     <authors>Onamusi Gbolahan</authors>
     <owners>YOUR_NAME</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Microsoft adaptive card for Xamarin Android</description>
     <tags>AdaptiveCards Xamarin Android</tags>
+    <dependencies>
+        <group targetFramework="MonoAndroid">
+            <!--MonoAndroid dependencies go here-->
+        </group>
+    </dependencies>
     </metadata>
     <files>
         <!-- Android reference assemblies -->
