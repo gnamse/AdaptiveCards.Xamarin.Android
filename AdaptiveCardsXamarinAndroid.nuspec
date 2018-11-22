@@ -2,7 +2,7 @@
 <package >
     <metadata>
     <id>AdaptiveCard.Xamarin.Android</id>
-    <version>1.1.0</version>
+    <version>1.1.0.1</version>
     <title>AdaptiveCards.Xamarin.Android</title>
     <authors>Onamusi Gbolahan</authors>
     <owners>YOUR_NAME</owners>
