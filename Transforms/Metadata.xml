@@ -23,4 +23,7 @@
   <add-node path="/api/package[@name='io.adaptivecards.renderer.readonly']">
     <class abstract="false" deprecated="not deprecated" final="false" name="ImageRenderer.ImageRendererImageLoaderAsync" static="true" visibility="public" extends="java.lang.Object"/>
   </add-node>
+  <add-node path="/api/package[@name='io.adaptivecards.renderer.input']">
+    <class abstract="false" deprecated="not deprecated" final="false" name="TextInputRenderer.InlineActionIconImageLoaderAsync" static="true" visibility="public" extends="java.lang.Object"/>
+  </add-node>
 </metadata>
